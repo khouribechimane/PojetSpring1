@@ -77,3 +77,6 @@ Avant de commencer on doit installé les outils suivants :
   ![image](https://github.com/user-attachments/assets/0f9b2d1b-2453-4426-86c5-94dda6df858c)
 
 
+   ## Affichage de Bonus 
+   ![image](https://github.com/user-attachments/assets/58902536-180b-4ea3-8288-132112a4c1a1)
+
